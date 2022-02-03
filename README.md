@@ -10,14 +10,16 @@ Race, demographic data, educational attainment,
 > Describe your topic and related work in this space. You must include 3 citations to related work (URLs to similar work, high quality articles from the popular press, research papers, etc. ) Please use a standard citation style of your choice. (at least 200 words)
 3. The Dataset
 Find a dataset for your project idea. The dataset must include at least 200 observations (rows) and 5 features (columns), unless you consult with your TA and Prof. Walsh.
+
 > Where did you find the data? Please include a link to the data source
 > Who collected the data?
 > How was the data collected or generated?
 > Why was the data collected?
->How many observations (rows) are in your data?
+> How many observations (rows) are in your data?
 > How many features (columns) are in the data?
 > What, if any, ethical questions or questions of power do you need to consider when working with this data?
 > What are possible limitations or problems with this data? (at least 200 words)
+
 Education Research and Data Center
 Educational attainment by race
 High School Graduate Outcomes - First Year Enrollment:  What percent of high school graduates enrolled in post secondary institutions in the first year after graduation?
