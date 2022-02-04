@@ -28,6 +28,7 @@ High School Graduate Outcomes - Persistence / Retention: What percentage of high
 Juvenile Justice Dashboard - Post Secondary Enrollment: What percent of justice involved students enroll in post secondary education in the year after leaving high school? 
 Juvenile Justice Dashboard - Post Secondary Completion: What are the post secondary outcomes of justice involved students?
 … 
+
 4. Implications 
 > Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers. (at least 150 words)
 5. Challenges & Limitations  
