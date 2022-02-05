@@ -28,31 +28,31 @@ The *school-to-prison pipeline* disproportionately affects marginalized communit
 
 Source: [U.S. Department of Education, Office for Civil Rights, Civil Rights Data Collection, 2011-12](https://ocrdata.ed.gov)
 
-3. The Dataset
-Find a dataset for your project idea. The dataset must include at least 200 observations (rows) and 5 features (columns), unless you consult with your TA and Prof. Walsh.
+## 3. The Dataset
+__Source__: [Juvenile Justice Dashboard - HS Completion](https://data.wa.gov/Education/Juvenile-Justice-Dashboard-HS-Completion/ej5m-hutb)
 
-> Where did you find the data? Please include a link to the data source
-> Who collected the data?
-> How was the data collected or generated?
-> Why was the data collected?
-> How many observations (rows) are in your data?
-> How many features (columns) are in the data?
-> What, if any, ethical questions or questions of power do you need to consider when working with this data?
-> What are possible limitations or problems with this data? (at least 200 words)
+__Data Collection Method__: The Education Research and Data Center, an organization that collects data about Washington students, collected this data through demographic research and from data provided by multiple higher education institutions and groups, such as the OSPI P210 Enrollment Summary for information about high school graduates.
 
-Education Research and Data Center
-Educational attainment by race
-High School Graduate Outcomes - First Year Enrollment:  What percent of high school graduates enrolled in post secondary institutions in the first year after graduation?
-Juvenile Justice Dashboard - HS Completion: What are the high school outcomes of justice involved students (accused, gone to jail, etc.)
-High School Graduate Outcomes - Persistence / Retention: What percentage of high school graduates persist/retain in post secondary institutions after the first year of post secondary enrollment?
-Juvenile Justice Dashboard - Post Secondary Enrollment: What percent of justice involved students enroll in post secondary education in the year after leaving high school?
-Juvenile Justice Dashboard - Post Secondary Completion: What are the post secondary outcomes of justice involved students?
-…
+__Purpose of Data Collection__: The data was collected to provide information about secondary education outcomes for students who were involved in the criminal justice system.
 
-4. Implications
+__Number of Observations__: 921
+
+__Number of Features__: 7
+
+__Ethical Questions/Questions of Power__:
+- Are there international students in this data set who do not have records of graduation or a GED who are considered dropouts?
+- Are certain students left out who could have been included with a bit more research/structuring of the dataset?
+- In considering where the data from this specific dataset came from, how did the higher education institutions and groups collect their data? Are there any limitations or drawbacks in the methods that they are using?
+
+__Limitations of the Dataset__:
+- Some of the values are blurred out to protect students’ identities, so it might skew the results. These might translate to N/A values in RStudio, so any function we use will need to exclude those values.
+- The data for students whose gender falls into the \'x\' category is inconsistently recorded, which could result in inaccurate representation of this group.
+
+
+## 4. Implications
 
 Our research questions all aim to find answers about how race and involvement in with the criminal justice system affect education for high schoolers in Washington State. Because we are diving into the concept of race and education, this could have very controversial implications for policymakers in Washington, as education is a very important part in the upbringing of the next generation of minds that will be running our country one day. If it is found that race is a factor in the detriment of young people's high school education experiences, and with that a direct connection to their involvement with the criminal justice system, this will prove to be a major flaw in our education and reform systems within Washington State. We will seek to find these answers in all ways that they factor into someone's high school education, whether it be due to discrimination, lack of opportunity, school funding, or any other relevant factors that may contribute to an educational experience.
 
-5. Challenges & Limitations  
+## 5. Challenges & Limitations  
 
 There are a handful of different challenges and limitations that we will need to address in our research in order to come to a reliable conclusion. The first that comes to mind is the areas in which we choose to target within Washington state. Because school districts are usually controlled by the city or county that they reside in, it will be important to note any distinctions within these separate areas in order to identify any biases. This also applies to any data that we come across when conducting research about involvement with the criminal justice system and its effect on young people's education outcomes. This could pose a challenge as the extra data that we are looking for may not be readily available in the way that we need it, forcing us to adapt based on the information that we know to be true. It is possible that educated inferences will need to be made for the sake of answering our research questions which could limit our findings. However, these are all challenges that can be addressed and should not keep us from answering our questions about  the effects race and criminal justice involvement have on young people's education outcomes in Washington State High Schools.
